@@ -3,3 +3,4 @@ Hello World!
 feature: A
 feature: B
 git-team-copy: update
+git-team-copy: update
